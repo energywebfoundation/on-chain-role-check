@@ -4,13 +4,13 @@ import { ClaimManager__factory, } from "./contracttypes/factories/ClaimManager__
 /**
  * The address that you want to check
  */
-const didAddressToCheck = "0x5BC3A2dF87F4dDf2e81Ca29f6119920FD056aa58";
+const didAddressToCheck = "0x09Df5d33f1242E1b8aA5E0E0F6BfA687E6846993";
 
 /**
  * Other config that you might want to change.
  */
-const domainToCheck = "email.roles.verification.apps.energyweb.iam.ewc";
-const CLAIM_MANAGER_ADDRESS = '0xC3dD7ED75779b33F5Cfb709E0aB02b71fbFA3210';
+const domainToCheck = "user.roles.dsb.apps.szostak.iam.ewc";
+const CLAIM_MANAGER_ADDRESS = '0x5339adE9332A604A1c957B9bC1C6eee0Bcf7a031';
 const RPC_URL = 'https://volta-rpc.energyweb.org/';
 
 

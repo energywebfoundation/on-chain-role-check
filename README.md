@@ -14,8 +14,7 @@ npm install
 2. change any config you want in `index.ts`. Probably you want to check the DID address. Some other possible values are:
 
 `ClaimManager` addresses:
-- `dev`: 0xC3dD7ED75779b33F5Cfb709E0aB02b71fbFA3210
-- `staging`: 0x561785174DF7f564f2591bA52B253c0F663427aB
+- `dev` & `staging`: 0x5339adE9332A604A1c957B9bC1C6eee0Bcf7a031
 - `prod`: 0x23b026631A6f265d17CFee8aa6ced1B244f3920C
 
 If on `prod`/`ewc`, change `RPC_URL` to https://rpc.energyweb.org/
